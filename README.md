@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 - 🚀 I’m currently working on **AI, Machine Learning, and IoT projects**  
-- 👨‍💻 All of my projects are available at **[Portfolio](#)** (Update this with your actual link)  
+- 👨‍💻 All of my projects are available at **[Portfolio](#)** 
 - 💡 I love working on **Deep Learning, Computer Vision, and Smart Systems**  
 - 🎯 Exploring **Embedded Systems, APIs, and Web Development**  
 - 📫 Reach me at **nirbhaygupta4113@gmail.com**  
